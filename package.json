@@ -1,12 +1,8 @@
 {
-  "name": "twikoo",
-  "version": "1.6.44",
-  "description": "A simple comment system.",
+  "name": "twikoo-backend",
+  "version": "1.0.0",
   "main": "api/index.js",
   "dependencies": {
     "twikoo-vercel": "latest"
-  },
-  "scripts": {
-    "build": "echo 'No build step needed for vercel'"
   }
 }
